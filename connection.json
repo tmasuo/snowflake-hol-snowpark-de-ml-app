@@ -1,0 +1,9 @@
+{
+  "account"   : "",
+  "user"      : "",
+  "password"  : "",
+  "role"      : "sysadmin",
+  "warehouse" : "shared_hol_wh",
+  "database"  : "shared_hol_db",
+  "schema"    : "your_id_hol_schema"
+}
