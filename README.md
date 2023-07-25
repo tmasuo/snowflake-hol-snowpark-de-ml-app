@@ -20,7 +20,7 @@ Quickstart [Getting Started with Data Engineering and ML using Snowpark for Pyth
   - ローカルの Notebook 環境でも OK ですが、設定方法はカバーしません
 
 ## 実行手順
-1. SageMaker Studio の Terminal から `git clone` でこのリポジトリの内容を取得
+1. SageMaker Studio の Terminal から `git clone https://github.com/tmasuo/snowflake-hol-snowpark-de-ml-app` でこのリポジトリの内容を取得
 2. Snowflake で `setup_admin.sql` を実行してウェアハウス、DB、スキーマおよびデータを準備
 3. SageMaker Studio で `connection.json` を編集
 4. SageMaker Studio で `Snowpark_For_Python_DE.ipynb` を実行
